@@ -1,5 +1,5 @@
 import './App.css';
-import DailyRecipe from './components/topBar/DailyRecipe';
+import DailyRecipe from './components/dailyRecipteTemplate/DailyRecipe';
 
 function App() {
   const recIngridients = ["Lettuce","Cucumber","Orange","Sprinkle of love"];
