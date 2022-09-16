@@ -1,0 +1,26 @@
+.recipeRapper {
+    display: flex;
+    justify-content:space-around;
+}
+
+.dailyRecipeLabel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mealImg {
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 40px;
+}
+
+.recipe {
+    font-family:'Courier New', Courier, monospace;
+    height: 400px;
+    width: 700px;
+    background-color: wheat;
+    border-radius: 20px;
+    border: solid black 5px;
+}
